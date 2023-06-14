@@ -5,6 +5,8 @@ import 'slick-carousel/slick/slick-theme.css'
 
 import MovieItem from '../MovieItem'
 
+// done
+
 const MoviesSlider = props => {
   const settings = {
     dots: false,
